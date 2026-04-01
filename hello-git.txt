@@ -5,3 +5,5 @@ My first Git Repo
 #-------------------
 
 This is my first git commit
+
+Changes made directly on github
