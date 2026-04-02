@@ -3,8 +3,3 @@ My first Git Repo
 
 #Edit below this line
 #-------------------
-
-This is my first git commit
-
-Changes made directly on github
-Feature branch update
